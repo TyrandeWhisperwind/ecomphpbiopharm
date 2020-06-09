@@ -1,0 +1,177 @@
+/*slider css*/
+#container{
+	width:100%;
+	height: 550px;
+	
+	margin:0 auto;
+	position:relative;
+}
+#container>img{
+	width:100%;
+	height:100%;
+	position:absolute;
+}
+#container>.btn{
+	position:absolute;
+	width:50px;
+	height:50px;
+	border:none;
+	border-radius:50px;
+	top:200px;
+	background:black;
+	color:white;
+	font-size:30px;
+}
+#container>#btn1:hover{
+	box-shadow:10px 0px 20px 0px black;
+}
+#container>#btn2:hover{
+	box-shadow:-10px 0px 20px 0px black;
+}
+
+#container>#btn2{
+	position:relative;
+	float:right;
+    
+}
+/*back gorund css*/
+body{
+	 background:#f2f2f2;
+	margin : 0 auto;
+    margin-top: 50px;
+	padding : 0;
+	position : relative;
+}
+/* login css*/
+.containe{
+	
+width:250px;
+height:320px;
+text-align:center;
+background-image: url(../images/login.jpg);
+border-radius:4px;
+margin:10 10px 10px 10px;	
+margin-top:100px;
+}
+.containe img{
+	width : 120px;
+	height: 120px;
+	margin-top:-60px;
+	margin-bottom:30px;
+	
+}
+input{
+	height: 45px;
+	width:220px;
+	font-size:18px;
+	margin-bottom:20px;
+	background-color:#fff;
+	border:none;
+ border-radius:4px;
+
+	
+}
+
+
+.btna{
+	width:120px;
+	padding: auto;
+	cursor:pointer;
+	color:#fff;
+    border-radius:4px;
+	border:none;
+	background-color:#2ECC71;
+	border-bottom:4px solid #27AE60;
+	margin-top :5px;
+	text-align: center;
+	
+}
+a{
+	color:#fff;
+}
+/*form*/
+#form-wrap{
+	
+	width:250px;
+height:420px;
+text-align:center;
+
+   background-image: url(../images/login.jpg);
+border-radius:4px;
+margin:right top;	
+margin-top:100px;
+	
+}
+
+fieldset label ,form h4{
+	display:block;
+	margin: 3px 0 5px 0;
+	color:#fff;
+}
+textarea {
+width:220px;
+height:110px;
+margin :0 auto;
+}
+/*product*/
+
+.img-thumb{
+	width:auto;
+	height: 200px;
+    border: 1px solid grey;
+     
+}
+
+#footer{
+	
+  margin-top:50px;
+	height:40px;
+ font-family: fantasy;
+      background-image:url(../images/noir.png);
+	
+}
+
+img.details{
+	width:auto;
+	margin:15px auto;
+   
+
+}
+#titre{
+font-family: Arial Black;
+
+
+}
+
+#price{
+font-size: 15px;
+
+
+}
+form {
+    display: block;
+    margin-top: 0em;
+}
+#ti{
+
+
+  
+  margin-top: 50px;
+  
+   
+    font-family: 'Gabriela', serif;
+    font-size: 60px;
+  border: 2px inset grey;
+    text-align: center;
+
+}
+.container_img .caption {
+    position: absolute;
+    bottom: 0;
+    left: 80px;
+    right:0;
+    top:100px;
+    font-size: 70px;
+    color:white;
+    font-family: Monospace ,"Gentium Basic", Georgia;
+}

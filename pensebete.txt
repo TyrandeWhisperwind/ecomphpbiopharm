@@ -1,0 +1,19 @@
+inscptio
+______________
+
+_____________________________
+arrangé les comptes
+_________________
+affichage des liste commande avc carton
+___________
+when livré:
+-------
+changé etat de la liste
+livré par l agent 
+dns date avc ou sns retard et temps retard
+_____________________________
+arrchivé facture et liste de livraison
+avec commabde
+________________________
+stat 
+contacté client dns les liste commandes

@@ -1,0 +1,22 @@
+/********* SIDE NAV BAR ***********/
+
+
+
+
+.panel-group .panel+.panel {
+    margin-top: 0px;
+}
+.panel-group {
+	margin-top: 35px;
+}
+.panel-collapse {
+	background-color:rgba(220, 213, 172, 0.5);
+}
+
+
+
+
+
+
+	
+
